@@ -33,3 +33,7 @@
 
 #Visual Studio Code
 *.vscode
+
+#textFiles Generated
+*.txt
+*.bin
